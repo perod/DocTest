@@ -1,0 +1,10 @@
+site_name: Wanda Digital Assistant
+site_favicon: images/favicon.png
+site_url: https://wanda-implementation-guide.u4pp.com/
+site_description: Unit4 Wanda Digital Assistant implmentation guide
+site_author: Unit4 People Platform
+copyright: 'Copyright &copy; 2018 Unit4' 
+
+pages:
+- Introduction:
+    - 'Home': 'index.md'
