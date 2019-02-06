@@ -3,3 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Contributing to the project
 Juba
+
+![Dox](https://www.simplilearn.com/ice9/free_resources_article_thumb/project-documentation-article.jpg)
